@@ -1,9 +1,9 @@
 cask 'int' do
-  version '1.0.0'
-  sha256 'aaaa8fc8221d922d4b5a2e6af0e5f7007e49fdbb10bb7c1b4070335743e6345a'
+  version '1.0.1'
+  sha256 '7ad55d61b02626d481c784e5d995009d933922b5ece72e5727c2e74378987d5d'
 
   # github.com was verified as official when first introduced to the cask
-  url 'https://github.com/Hackbit/nko2017-nodenodenode/releases/download/1.0.0/Improved.Network.Tools-darwin-x64.zip'
+  url 'https://github.com/Hackbit/nko2017-nodenodenode/releases/download/1.0.1/Improved.Network.Tools-darwin-x64.zip'
   name 'Improved Network Tools'
   homepage 'http://nodenodenode.2017.nodeknockout.com/'
 
